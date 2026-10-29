@@ -1,0 +1,5 @@
+.DS_Store
+FINCORP.csv
+saved_models/
+.ipynb_checkpoints/
+__pycache__/
